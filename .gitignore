@@ -1,0 +1,19 @@
+# 2017.3.30
+#
+
+# ignore Eclipse editor
+.classpath
+.project
+.settings/
+
+# ignore class file
+/build/*
+
+# ignore page
+/pages/node_modules/*
+/WebContent/pages/*
+/target/classes/*
+/target/maven-status/*
+/target/protoc-plugins/*
+/target/protoc-dependencies/*
+/target/test-classes/*
